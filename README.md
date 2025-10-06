@@ -35,14 +35,14 @@ Configured Oracle Enterprise Manager (EM Express) and verified both tasks throug
 ---
 
 ### 3. Task 3: Oracle Enterprise Manager - Dashboard
-![OEM Dashboard](screenshots/screenshot5.png)
+![OEM Dashboard](screenshots/Screenshot5.png)
 
 *This screenshot shows the Oracle Enterprise Manager Express dashboard accessed via web browser at https://localhost:5500/em. The username (SYS) is clearly visible, confirming successful login and configuration.*
 
 ---
 
 ### 4. Task 3: PDB Verification in OEM
-![PDB List in OEM](screenshots/screenshot4.png)
+![PDB List in OEM](screenshots/Screenshoot4.png)
 
 *This screenshot shows the Pluggable Databases section in OEM, displaying `ir_pdb_27121` in OPEN status. Notably, the deleted PDB `ir_to_delete_pdb_27121` does not appear, confirming successful deletion.
 
