@@ -1,6 +1,6 @@
 # Oracle Pluggable Database Assignment Report
 
-**Student Name:** Isimbi Iris  
+**Student Name:** Isimbi Mushimire Iris  
 **Student ID:** 27121
 ---
 
